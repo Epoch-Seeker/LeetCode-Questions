@@ -2,6 +2,7 @@ class Trienode{
     public:
         char data;
         Trienode* children[26];
+        int childCount;
         bool isterminal;
 
         Trienode(char ch){
@@ -9,6 +10,7 @@ class Trienode{
             for(int i=0;i<26;i++){
                 children[i] = NULL;
             }
+            childCount = 0;
             isterminal = false;
         }
 };
@@ -33,6 +35,7 @@ class Trie{
             // char not present
             if(root -> children[index] == NULL){
                 root -> children[index] = new Trienode(ch);
+                root -> childCount += 1;
             }
 
             insertutil(root -> children[index] , word , idx + 1);
@@ -42,30 +45,28 @@ class Trie{
             insertutil(root , word , 0);
         }
 
-        void get_ansutil(Trienode* root , string& s){
-            int child_count = 0;
+        void get_ansutil(Trienode* root , string word , string& s){
+            
+            for(int i = 0; i<word.size() ; i++ ){
+                if(root -> isterminal)break;
+                
+                if(root -> childCount != 1)break;
 
-            Trienode* child;
+                char ch = word[i];
 
-            for(int i = 0 ;i< 26 ; i++){
-                if(root -> children[i]){
-                    child = root -> children[i];
-                    child_count++;
-                }
+                int idx = ch - 'a';
+
+                s += ch;
+
+                root = root -> children[idx];
+
+                
             }
-
-            if(child_count != 1)return;
-
-            s += child -> data;
-
-            if(child -> isterminal == true)return;
-
-            get_ansutil(child , s);
         }
 
 
-        void get_ans(string& s){
-             get_ansutil(root , s);
+        void get_ans(string word , string& s){
+             get_ansutil(root , word , s);
         }
 
                
@@ -75,15 +76,12 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
 
-        for(auto a : strs){
-            if(a == "")return "";
-        }
         Trie t ;
         for(int i =0 ;i<strs.size() ; i++){
             t.insert(strs[i]);
         }
         string ans = "";
-        t.get_ans(ans);
+        t.get_ans(strs[0] ,  ans);
 
         return ans;
     }
