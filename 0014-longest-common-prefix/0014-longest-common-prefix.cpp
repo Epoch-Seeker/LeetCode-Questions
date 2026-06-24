@@ -11,25 +11,18 @@ public:
 
         if(all_zero)return "";
 
-        int idx =0;
-        
-        while(true){
-            bool same = true;
-            char ch;
-            for(int i= 0; i<strs.size()-1 ; i++){
-                 
-                if(idx < strs[i].size() && idx < strs[i+1].size()){
-                    if(strs[i][idx] != strs[i+1][idx])same = false;
-                    else ch = strs[i][idx];
-                }else same = false;
-                if(!same){
-                    return res;
+        for(int i = 0 ; i< strs[0].size() ; i++){
+            char ch = strs[0][i];
+            bool he = true;
+            for(int j = 1 ; j< strs.size() ; j++){
+                if(strs[j][i] != ch){
+                    he = false;break;
                 }
-                
             }
-            res += ch;
-            idx++;
+            if(he) res += ch;
+            else break;
         }
-        return "0";
+
+        return res;
     }
 };
