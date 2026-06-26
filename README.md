@@ -73,6 +73,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
 | ------- |
