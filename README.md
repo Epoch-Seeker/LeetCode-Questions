@@ -7,6 +7,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -15,6 +16,7 @@ This repo contains all the leetcode questions that i solved until
 | [0014-longest-common-prefix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
@@ -100,4 +102,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
