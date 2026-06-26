@@ -6,6 +6,7 @@ This repo contains all the leetcode questions that i solved until
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -28,6 +29,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -62,4 +64,12 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
