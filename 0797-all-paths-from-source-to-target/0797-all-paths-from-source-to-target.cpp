@@ -1,21 +1,16 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& adj , vector<vector<int>>& ans , vector<bool> vis , int strt , vector<int>& temp){
-        vis[strt] = true;
+    void dfs(vector<vector<int>>& adj , vector<vector<int>>& ans , int strt , vector<int>& temp , int tar){
 
-        // temp.push_back(strt);
+        if(strt == tar){
+            ans.push_back(temp);
+        }
 
         for(auto i : adj[strt]){
-            if(!vis[i] && i != adj.size() -1){
+             
                 temp.push_back(i);
-                dfs(adj , ans , vis , i , temp);
+                dfs(adj , ans , i , temp , tar);
                 temp.pop_back();
-            }else if(i == adj.size()-1){
-                temp.push_back(i);
-                ans.push_back(temp);
-                temp.pop_back();
-                // return;
-            }
         }
 
         // temp.pop_back();
@@ -26,11 +21,9 @@ public:
 
         int n = graph.size();
 
-        vector<bool> vis(n , false);
-
         temp.push_back(0);
 
-        dfs(graph , ans , vis , 0 , temp);
+        dfs(graph , ans , 0 , temp , n-1);
 
         return ans;
     }
