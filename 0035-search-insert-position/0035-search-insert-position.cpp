@@ -12,6 +12,6 @@ public:
             else h = m-1;
         }
 
-        return h+1;
+        return l;
     }
 };
