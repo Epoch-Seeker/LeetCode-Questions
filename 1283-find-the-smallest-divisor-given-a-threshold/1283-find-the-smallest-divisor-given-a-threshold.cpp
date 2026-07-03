@@ -11,12 +11,10 @@ public:
             int mid = low + (high - low)/2;
 
             // check mid can be answer or not
-            int temp = 0;
+            long long temp = 0;
 
             for(auto num : nums){
-                temp += (num/mid);
-
-                if(num % mid != 0)temp++;
+                temp += (num + mid - 1) / mid;
             }
 
             if(temp <= threshold){
