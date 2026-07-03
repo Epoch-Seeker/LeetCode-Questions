@@ -111,11 +111,13 @@ This repo contains all the leetcode questions that i solved until
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 ## Simulation
 |  |
