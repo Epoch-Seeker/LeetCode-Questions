@@ -5,7 +5,7 @@ public:
 
         int high = accumulate(weights.begin() , weights.end() , 0);
 
-        int ans = INT_MAX;
+        // int ans = INT_MAX;
 
         while(low <= high){
 
@@ -25,12 +25,12 @@ public:
             }
 
             if(need_of_days <= days){
-                ans = mid;
+                // ans = mid;
                 high = mid -1;
             }
             else low = mid + 1;
         }
 
-        return ans;
+        return low;
     }
 };
