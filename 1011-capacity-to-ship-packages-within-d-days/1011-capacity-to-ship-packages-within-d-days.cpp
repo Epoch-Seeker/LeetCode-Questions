@@ -18,9 +18,10 @@ public:
             for(auto i : weights){
                 if(w_loaded + i > mid){
                     need_of_days++;
-                    w_loaded = 0;
+                    w_loaded = i;
                 }
-                w_loaded += i;
+                else 
+                    w_loaded += i;
             }
 
             if(need_of_days <= days){
