@@ -131,6 +131,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0876-middle-of-the-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,4 +194,5 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
