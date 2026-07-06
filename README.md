@@ -22,6 +22,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -188,4 +189,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
