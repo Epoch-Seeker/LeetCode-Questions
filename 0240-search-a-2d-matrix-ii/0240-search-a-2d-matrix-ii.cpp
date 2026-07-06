@@ -2,20 +2,15 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
 
-        for(auto &row : matrix){
-            int low = 0;
-            int high = matrix[0].size()-1;
-            
-            while(low <= high){
+        int row = 0;
+        int col = matrix[row].size()-1;
 
-                int mid = low + (high - low)/2;
-
-                if(row[mid] == target)return true;
-
-                if(row[mid] > target) high = mid - 1;
-
-                else low = mid + 1;
-            }
+        while(row < matrix.size() && col >= 0){
+            if(matrix[row][col] < target){
+                row++;
+            }else if(matrix[row][col] > target){
+                col--;
+            }else return true;
         }
 
         return false;
