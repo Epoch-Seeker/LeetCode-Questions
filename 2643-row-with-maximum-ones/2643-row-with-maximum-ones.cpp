@@ -1,19 +1,21 @@
 class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
-        int sum = 0;
-        int idx = 0;
-        int j = 0;
+        int count =0,row=0;
+        int n = mat.size(),m= mat[0].size();
 
-        for(auto i : mat){
-            int temp = accumulate(i.begin() , i.end() , 0);
-            if(temp > sum){
-                sum = temp;
-                idx = j;
+        for(int i=0 ;i<n ; i++){
+            int temp=0;
+            for(int j=0 ;j<m ;j++){
+                if(mat[i][j]==1){
+                    temp++;
+                }
             }
-            j++;
+            if(temp>count){
+                count = temp;
+                row=i;
+            }
         }
-
-        return {idx , sum};
+        return {row, count};
     }
 };
