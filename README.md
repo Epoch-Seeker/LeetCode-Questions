@@ -147,6 +147,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0050-powx-n](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +194,7 @@ This repo contains all the leetcode questions that i solved until
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
