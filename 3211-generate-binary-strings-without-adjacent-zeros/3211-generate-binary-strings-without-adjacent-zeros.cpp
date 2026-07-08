@@ -22,10 +22,9 @@ public:
         
     }
     vector<string> validStrings(int n) {
-        bool can = true;
         vector<string>ans;
         string s ;
-        solve(n , can , ans , s);
+        solve(n , true , ans , s);
         return ans;
     }
 };
