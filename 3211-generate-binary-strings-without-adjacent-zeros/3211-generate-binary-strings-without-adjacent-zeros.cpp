@@ -9,27 +9,22 @@ public:
         if(can){
             // allowed to take 0
             s.push_back('0');
-            solve(n, !can , ans , s);
+            solve(n, false , ans , s);
             s.pop_back();
-            s.push_back('1');
-            solve(n, can , ans , s);
-            s.pop_back();
+             
         }
-        
-        else{
-            // not allowed
-        
-            s.push_back('1');
-            solve(n, !can , ans , s);
-            s.pop_back();
+
+        s.push_back('1');
+        solve(n, true , ans , s);
+        s.pop_back();
             
-        }
+
         
     }
     vector<string> validStrings(int n) {
         bool can = true;
         vector<string>ans;
-        string s = "";
+        string s ;
         solve(n , can , ans , s);
         return ans;
     }
