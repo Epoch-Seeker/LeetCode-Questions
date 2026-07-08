@@ -3,45 +3,28 @@ public:
     bool solve(string word , vector<vector<char>>& board , int idx , int i , int j , vector<vector<bool>>& vis){
         if(idx == word.size())return true;
 
-        bool ans = false;
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
 
-        //up
-        if(i-1>=0 && !vis[i-1][j]){
-            if(board[i-1][j] == word[idx]){
-                vis[i-1][j] = true;
-                ans = ans || solve(word , board , idx + 1 , i-1 , j , vis);
-                vis[i-1][j] = false;
+        for (int k = 0; k < 4; k++) {
+            int nr = i + dr[k];
+            int nc = j + dc[k];
+
+            if (nr >= 0 && nr < board.size() &&
+                nc >= 0 && nc < board[0].size() &&
+                !vis[nr][nc] &&
+                board[nr][nc] == word[idx]) {
+
+                vis[nr][nc] = true;
+
+                if (solve(word, board, idx + 1, nr, nc, vis))
+                    return true;
+
+                vis[nr][nc] = false;
             }
         }
 
-        //down
-        if(i+1 < board.size() && !vis[i+1][j]){
-            if(board[i+1][j] == word[idx]){
-                vis[i+1][j] = true;
-                ans = ans || solve(word , board , idx + 1 , i+1 , j , vis);
-                vis[i+1][j] = false;
-            }
-        }
-
-        //left
-        if(j-1>=0 && !vis[i][j-1]){
-            if(board[i][j-1] == word[idx]){
-                vis[i][j-1] = true;
-                ans = ans || solve(word , board , idx + 1 , i , j-1 , vis);
-                vis[i][j-1] = false;
-            }
-        }
-
-        //right
-        if(j+1 < board[0].size() && !vis[i][j+1]){
-            if(board[i][j+1] == word[idx]){
-                vis[i][j+1] = true;
-                ans = ans || solve(word , board , idx + 1 , i , j+1 , vis);
-                vis[i][j+1] = false;
-            }
-        }
-
-        return ans;
+        return false;
 
     }
     bool exist(vector<vector<char>>& board, string word) {
