@@ -18,6 +18,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
@@ -114,6 +115,7 @@ This repo contains all the leetcode questions that i solved until
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -127,6 +129,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0051-n-queens) |
