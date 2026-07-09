@@ -52,6 +52,7 @@ This repo contains all the leetcode questions that i solved until
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -113,6 +114,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
@@ -137,6 +139,7 @@ This repo contains all the leetcode questions that i solved until
 | [0074-search-a-2d-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -175,6 +178,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -182,6 +186,7 @@ This repo contains all the leetcode questions that i solved until
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -192,12 +197,14 @@ This repo contains all the leetcode questions that i solved until
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Biconnected Component
 |  |
@@ -219,4 +226,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
