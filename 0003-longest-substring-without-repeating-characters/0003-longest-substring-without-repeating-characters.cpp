@@ -1,24 +1,18 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        if (s.length() == 0 || s.length() == 1)
-            return s.length();
+
         int ans = 0;
-        vector<bool> vis(127 , false);
+        vector<int> lastidx(127 , -1);
 
         int i = 0;
-        int j = 0;
 
-        while(j < s.size()){
+        for(int j = 0;j<s.size();j++){
+            i = max(i , lastidx[s[j]]+1);
 
-            while(vis[s[j]]){
-                vis[s[i]] = false;
-                i++;
-            }
-
-            vis[s[j]] = true;
             ans = max(ans , j-i+1);
-            j++;
+
+            lastidx[s[j]] = j;
         }
         
 
