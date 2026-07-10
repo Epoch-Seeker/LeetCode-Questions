@@ -4,7 +4,7 @@ public:
         if (s.length() == 0 || s.length() == 1)
             return s.length();
         int ans = 0;
-        vector<bool> vis(256 , false);
+        vector<bool> vis(127 , false);
 
         int i = 0;
         int j = 0;
