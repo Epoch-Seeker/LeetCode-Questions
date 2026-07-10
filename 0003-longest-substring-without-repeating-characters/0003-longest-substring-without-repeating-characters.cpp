@@ -11,12 +11,12 @@ public:
 
         while(j < s.size()){
 
-            while(vis[(unsigned char)s[j]]){
-                vis[(unsigned char)s[i]] = false;
+            while(vis[s[j]]){
+                vis[s[i]] = false;
                 i++;
             }
 
-            vis[(unsigned char)s[j]] = true;
+            vis[s[j]] = true;
             ans = max(ans , j-i+1);
             j++;
         }
