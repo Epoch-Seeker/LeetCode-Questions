@@ -12,6 +12,7 @@ This repo contains all the leetcode questions that i solved until
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -59,6 +60,7 @@ This repo contains all the leetcode questions that i solved until
 | [0216-combination-sum-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -76,6 +78,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -88,6 +91,7 @@ This repo contains all the leetcode questions that i solved until
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -245,6 +249,7 @@ This repo contains all the leetcode questions that i solved until
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
@@ -263,4 +268,16 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
