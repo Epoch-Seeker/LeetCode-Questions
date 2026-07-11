@@ -4,10 +4,10 @@ public:
         
         int l = 0;
         int ans = 0;
-        int p = k;
+
         for(int r = 0;r<nums.size() ; r++){
             if(nums[r] == 0){
-                if( p > 0) p--;
+                if( k > 0) k--;
                 else{
                     while(nums[l]!=0)l++;
                     l++;
