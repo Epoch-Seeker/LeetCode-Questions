@@ -53,6 +53,7 @@ This repo contains all the leetcode questions that i solved until
 | [0040-combination-sum-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
@@ -155,6 +156,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -188,6 +190,7 @@ This repo contains all the leetcode questions that i solved until
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
