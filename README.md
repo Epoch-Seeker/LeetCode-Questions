@@ -53,6 +53,7 @@ This repo contains all the leetcode questions that i solved until
 | [0040-combination-sum-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -81,6 +82,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -131,6 +133,7 @@ This repo contains all the leetcode questions that i solved until
 | [0022-generate-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 ## Stack
