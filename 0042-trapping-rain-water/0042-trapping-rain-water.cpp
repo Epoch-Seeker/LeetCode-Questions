@@ -3,19 +3,33 @@ public:
     int trap(vector<int>& height) {
         int n = height.size();
 
-        vector<int> leftMax(n), rightMax(n);
+        vector<int> left(n , 0);
 
-        leftMax[0] = height[0];
-        for (int i = 1; i < n; i++)
-            leftMax[i] = max(leftMax[i - 1], height[i]);
+        vector<int> right(n , 0);
 
-        rightMax[n - 1] = height[n - 1];
-        for (int i = n - 2; i >= 0; i--)
-            rightMax[i] = max(rightMax[i + 1], height[i]);
+        int mx = 0;
+
+        for(int i=0;i<n;i++){
+            if(height[i] > mx){
+                mx = height[i];
+            }
+            left[i] = mx;
+        }
+
+        mx = 0;
+
+        for(int i=n-1;i>=0;i--){
+            if(height[i] > mx){
+                mx = height[i];
+            }
+            right[i] = mx;
+        }
 
         int ans = 0;
-        for (int i = 0; i < n; i++)
-            ans += min(leftMax[i], rightMax[i]) - height[i];
+
+        for(int i=0;i<n;i++){
+            ans += min(left[i] , right[i]) - height[i];
+        }
 
         return ans;
     }
