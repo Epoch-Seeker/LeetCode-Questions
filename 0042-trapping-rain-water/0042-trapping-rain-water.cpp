@@ -14,13 +14,13 @@ public:
         while(left < right){
             if(leftmx < rightmx){
 
-                ans += leftmx - height[left];
+                ans += max(0 , leftmx - height[left]);
 
                 left++;
 
                 leftmx = max(leftmx , height[left]);
             }else{
-                ans += rightmx - height[right];
+                ans += max(0 ,rightmx - height[right]);
 
                 right--;
 
