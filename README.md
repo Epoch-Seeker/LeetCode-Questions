@@ -15,6 +15,7 @@ This repo contains all the leetcode questions that i solved until
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -35,6 +36,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
@@ -252,6 +254,7 @@ This repo contains all the leetcode questions that i solved until
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
@@ -305,4 +308,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
