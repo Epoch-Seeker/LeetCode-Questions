@@ -15,6 +15,7 @@ This repo contains all the leetcode questions that i solved until
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
+| [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -36,6 +37,7 @@ This repo contains all the leetcode questions that i solved until
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
+| [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 ## Trie
 |  |
 | ------- |
@@ -267,6 +269,7 @@ This repo contains all the leetcode questions that i solved until
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 ## Tree
 |  |
 | ------- |
@@ -285,6 +288,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 ## Sorting
 |  |
 | ------- |
@@ -297,4 +301,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Ordered Set
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
