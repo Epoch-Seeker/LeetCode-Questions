@@ -81,6 +81,7 @@ This repo contains all the leetcode questions that i solved until
 | [1539-kth-missing-positive-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -191,6 +192,7 @@ This repo contains all the leetcode questions that i solved until
 | [0050-powx-n](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -315,4 +317,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
