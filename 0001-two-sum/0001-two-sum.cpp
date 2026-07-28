@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        set<int> st;
+        unordered_set<int> st;
         int a , b;
         for(int i=0;i<nums.size();i++){
             int comp = target - nums[i];
