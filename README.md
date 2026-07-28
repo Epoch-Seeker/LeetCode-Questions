@@ -32,6 +32,7 @@ This repo contains all the leetcode questions that i solved until
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
@@ -310,6 +311,7 @@ This repo contains all the leetcode questions that i solved until
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -330,4 +332,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
