@@ -6,6 +6,7 @@ This repo contains all the leetcode questions that i solved until
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
@@ -50,6 +51,7 @@ This repo contains all the leetcode questions that i solved until
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
