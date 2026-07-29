@@ -3,26 +3,33 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin() , nums.end());
 
-        map<vector<int> , bool> mp;
-
         int n = nums.size();
 
         vector<vector<int>> ans;
          
-        for(int i=0; i< n-2 ;i++){
-            for(int j = i+1; j < n-1 ; j++){
-                int temp = - (nums[i] + nums[j]);
-                auto it = lower_bound(nums.begin()+j+1 , nums.end() , temp);
-                if( it != nums.end()  && *it == temp){
-                    if(!mp[{nums[i] , nums[j] , temp}]){
-                        ans.push_back({nums[i] , nums[j] , temp});
-                        mp[{nums[i] , nums[j] , temp}] = true;
-                    }
-                    
+        for(int i=0;i<n-2;i++){
+
+            if(i>0 && nums[i] == nums[i-1])continue;
+            int temp = -nums[i];
+
+            int left = i+1;
+            int right = n-1;
+
+            while(left < right){
+                if(nums[left] + nums[right] < temp)left++;
+                else if(nums[left] + nums[right] > temp)right--;
+                else {
+                    ans.push_back({nums[i] , nums[left] , nums[right]});
+                    left++;
+                    right--;
+                    while (left < right && nums[left] == nums[left - 1])
+                        left++;
+
+                    while (left < right && nums[right] == nums[right + 1])
+                        right--;
                 }
             }
         }
-
         return ans;
 
     }
