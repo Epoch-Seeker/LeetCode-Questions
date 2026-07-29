@@ -58,6 +58,7 @@ This repo contains all the leetcode questions that i solved until
 | [0004-median-of-two-sorted-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0035-search-insert-position) |
@@ -191,6 +192,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -318,6 +320,7 @@ This repo contains all the leetcode questions that i solved until
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
