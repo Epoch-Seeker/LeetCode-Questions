@@ -1,7 +1,7 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int mp[256];
+        int mp[256] = {};
 
         mp['I'] = 1;
         mp['V'] = 5;
