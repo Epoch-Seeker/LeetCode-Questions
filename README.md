@@ -68,6 +68,7 @@ This repo contains all the leetcode questions that i solved until
 | [0051-n-queens](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -332,6 +333,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -360,4 +362,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
