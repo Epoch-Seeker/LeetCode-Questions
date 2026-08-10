@@ -79,6 +79,7 @@ This repo contains all the leetcode questions that i solved until
 | [0162-find-peak-element](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -239,6 +240,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
@@ -316,6 +318,7 @@ This repo contains all the leetcode questions that i solved until
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -378,4 +381,16 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0056-merge-intervals) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
