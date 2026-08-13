@@ -86,6 +86,7 @@ This repo contains all the leetcode questions that i solved until
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -165,6 +166,7 @@ This repo contains all the leetcode questions that i solved until
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +197,7 @@ This repo contains all the leetcode questions that i solved until
 | [0200-number-of-islands](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -263,6 +266,7 @@ This repo contains all the leetcode questions that i solved until
 | [0207-course-schedule](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
