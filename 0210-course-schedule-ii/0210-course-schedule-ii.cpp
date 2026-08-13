@@ -1,18 +1,18 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>& adj , int node , stack<int>& st , vector<bool>& vis , vector<bool>& pathVis){
+    bool dfs(vector<vector<int>>& adj , int node , vector<int>& ans, vector<bool>& vis , vector<bool>& pathVis){
         vis[node] = true;
         pathVis[node] = true;
 
         for(auto nbr : adj[node]){
             if(!vis[nbr]){
-                if(dfs(adj , nbr , st , vis,pathVis ))return true;
+                if(dfs(adj , nbr , ans , vis,pathVis ))return true;
             }else if(pathVis[nbr]){
                 return true;
             }
         }
         pathVis[node] = false;
-        st.push(node);
+        ans.push_back(node);
         return false;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
@@ -27,19 +27,14 @@ public:
         vector<int> ans;
         vector<bool> vis(numCourses , false);
         vector<bool> pathVis(numCourses , false);
-        stack<int> st;
 
         for(int i = 0 ; i< numCourses ; i++){
             if(!vis[i]){
-                if(dfs(adj , i , st , vis , pathVis))return {};
+                if(dfs(adj , i , ans , vis , pathVis))return {};
             }
         }
 
-        while(!st.empty()){
-            ans.push_back(st.top());
-            st.pop();
-        }
-
+        reverse(ans.begin() , ans.end());
         return ans;
     }
 };
