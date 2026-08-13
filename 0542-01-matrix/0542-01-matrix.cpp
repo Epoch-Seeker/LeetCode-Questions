@@ -4,15 +4,16 @@ public:
 
         int m = mat.size();
         int n = mat[0].size();
-        vector<vector<bool>> vis(m , vector<bool>(n , false));
 
-        queue<vector<int>> q;
+        queue<pair<int , int>> q;
 
         for(int i=0;i< m ; i++){
             for(int j = 0 ;j< n ; j++){
                 if(mat[i][j] == 0){
-                    vis[i][j] = true;
-                    q.push({i , j , 0});
+                     
+                    q.push({i , j});
+                }else{
+                    mat[i][j] = -1;
                 }
             }
         }
@@ -24,20 +25,20 @@ public:
             auto t = q.front();
             q.pop();
 
-            int i = t[0];
-            int j = t[1];
-            int dis = t[2];
-
-            if(mat[i][j] == 1)mat[i][j] = dis;
+            int i = t.first;
+            int j = t.second;
 
             for(int k = 0 ;k <4 ; k++){
                 int x = i + dx[k];
                 int y = j + dy[k];
 
-                if(x <0 || x >= m || y < 0 || y >= n || vis[x][y])continue;
+                if(x <0 || x >= m || y < 0 || y >= n)continue;
 
-                vis[x][y] = true;
-                q.push({x , y , dis + 1});
+                if(mat[x][y] != -1)continue;
+
+                mat[x][y] = mat[i][j] + 1;
+
+                q.push({x , y});
             }
         }
 
