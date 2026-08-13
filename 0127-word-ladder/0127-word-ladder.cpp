@@ -18,7 +18,7 @@ public:
             for(int i=0;i< s.size() ; i++){
                 char temp = s[i];
                 for(char ch = 'a' ; ch <= 'z' ; ch++){
-    
+                    if(ch == temp)continue;
                     s[i] = ch;
                     if(st.count(s)){
                         st.erase(s);
