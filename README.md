@@ -12,6 +12,7 @@ This repo contains all the leetcode questions that i solved until
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -35,6 +36,7 @@ This repo contains all the leetcode questions that i solved until
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -268,6 +270,7 @@ This repo contains all the leetcode questions that i solved until
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0207-course-schedule) |
@@ -415,4 +418,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
