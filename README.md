@@ -263,6 +263,7 @@ This repo contains all the leetcode questions that i solved until
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
@@ -281,6 +282,7 @@ This repo contains all the leetcode questions that i solved until
 | [0542-01-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
@@ -292,6 +294,7 @@ This repo contains all the leetcode questions that i solved until
 | [0130-surrounded-regions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
@@ -301,6 +304,7 @@ This repo contains all the leetcode questions that i solved until
 | [0210-course-schedule-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -426,4 +430,12 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
