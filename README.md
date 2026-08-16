@@ -265,6 +265,7 @@ This repo contains all the leetcode questions that i solved until
 | [0733-flood-fill](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -284,6 +285,7 @@ This repo contains all the leetcode questions that i solved until
 | [0733-flood-fill](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -306,6 +308,7 @@ This repo contains all the leetcode questions that i solved until
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
@@ -314,6 +317,7 @@ This repo contains all the leetcode questions that i solved until
 | [0207-course-schedule](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Biconnected Component
 |  |
@@ -438,4 +442,12 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
