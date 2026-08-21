@@ -42,10 +42,16 @@ public:
         }
 
         for(int i=0;i< n;i++){
-            long long cont = (long long)(leftmax[i]*rightmax[i]);
-            ans += ((long long)nums[i]*cont);
-            cont = (long long)(leftmin[i]*rightmin[i]);
-            ans -= ((long long)nums[i]*cont);
+            // Contribution as maximum
+            long long maxContribution =
+                (long long)nums[i] * leftmax[i] * rightmax[i];
+
+            // Contribution as minimum
+            long long minContribution =
+                (long long)nums[i] * leftmin[i] * rightmin[i];
+
+            ans += maxContribution;
+            ans -= minContribution;
         }
         return ans;
     }
