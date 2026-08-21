@@ -111,6 +111,7 @@ This repo contains all the leetcode questions that i solved until
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -188,6 +189,7 @@ This repo contains all the leetcode questions that i solved until
 | [0496-next-greater-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -238,6 +240,7 @@ This repo contains all the leetcode questions that i solved until
 | [0496-next-greater-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
