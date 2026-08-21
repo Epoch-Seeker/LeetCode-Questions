@@ -17,12 +17,14 @@ public:
             st.push(nums2[i]);
         }
 
-        for(int i= 0 ; i<nums1.size() ; i++){
+        for (int i = 0; i < nums1.size(); i++) {
+
             int t = nums1[i];
 
-            for(int j = 0 ; j < n ; j++){
-                if(nums2[j] == t){
-                    nums1[i] = ans[j];
+            for (int j = 0; j < n; j++) {
+
+                if (nums2[j] == t) {
+                    nums1[i] = ans[j];   // <-- FIX
                     break;
                 }
             }
