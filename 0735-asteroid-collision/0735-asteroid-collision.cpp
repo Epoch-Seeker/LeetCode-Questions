@@ -4,10 +4,9 @@ public:
         stack<int> st;
 
         for(auto ast : asteroids){
-            if(ast > 0)st.push(ast);
-            else{
+             
                 bool alive = true;
-                while(!st.empty() && alive && st.top() > 0){
+                while(!st.empty() && alive && ast < 0 && st.top() > 0){
                     if(st.top() > -ast){
                         alive = false;
                     }
@@ -21,7 +20,7 @@ public:
                 if(alive){
                     st.push(ast);
                 }
-            }
+            
         }
 
         vector<int> ans;
