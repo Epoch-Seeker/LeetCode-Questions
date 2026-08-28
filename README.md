@@ -82,6 +82,7 @@ This repo contains all the leetcode questions that i solved until
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0174-dungeon-game) |
@@ -180,6 +181,7 @@ This repo contains all the leetcode questions that i solved until
 | [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
