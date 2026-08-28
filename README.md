@@ -176,6 +176,7 @@ This repo contains all the leetcode questions that i solved until
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -256,6 +257,7 @@ This repo contains all the leetcode questions that i solved until
 | [0013-roman-to-integer](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -481,4 +483,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
