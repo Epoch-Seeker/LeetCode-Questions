@@ -1,34 +1,40 @@
 class Solution {
 public:
-    int solve(vector<vector<int>>& obstacleGrid , int i , int j , vector<vector<int>>& dp){
-        int m = obstacleGrid.size();
-        int n = obstacleGrid[0].size();
+    int solve(vector<vector<int>>& obstacleGrid){
+        
 
-        if(i == m-1 && j== n-1){
-            if(!obstacleGrid[m-1][n-1])return 1;
-            else return 0;
-        };
-
-        if(dp[i][j] != -1)return dp[i][j];
-
-        // if(i >=m || j >= n)return 0;
-
-        int right = j+1 < n ? obstacleGrid[i][j+1] : 1;
-        int down = i+1 < m ? obstacleGrid[i+1][j] : 1;
-
-        if(!right && !down){
-            return dp[i][j] = solve(obstacleGrid , i , j+1 , dp) + solve(obstacleGrid , i+1 , j , dp);
-        }else if(right && !down)return dp[i][j] = solve(obstacleGrid , i+1 , j ,dp);
-        else if(!right && down)return dp[i][j] =  solve(obstacleGrid , i , j+1 , dp); 
+         
 
         return 0;
     }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
+        
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
     
-        if(obstacleGrid[0][0] == 1)return 0;
-        vector<vector<int>> dp(m , vector<int>(n , -1));
-        return solve(obstacleGrid , 0 , 0 , dp);
+        if(obstacleGrid[0][0] == 1 || obstacleGrid[m-1][n-1] == 1)return 0;
+        vector<vector<long long>> dp(m , vector<long long>(n , 0));
+
+        dp[m-1][n-1] = 1;
+
+        for(int i = m-1 ;i>=0 ; i--){
+            for(int j = n-1 ; j >= 0 ; j--){
+                if(i== m-1 && j == n-1)continue;
+
+                // Current cell is an obstacle
+                if (obstacleGrid[i][j] == 1) {
+                    dp[i][j] = 0;
+                    continue;
+                }
+
+                long long right = (j + 1 < n) ? dp[i][j+1] : 0;
+                long long down  = (i + 1 < m) ? dp[i+1][j] : 0;
+
+                dp[i][j] = (long long)(right + down);
+
+            }
+        }
+
+        return dp[0][0];
     }
 };
