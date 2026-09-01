@@ -1,17 +1,25 @@
 class Solution {
 public:
-    int solve(int amount, vector<int>& coins , int idx , vector<vector<int>>& dp){
-        if(idx >= coins.size() || amount < 0)return 0;
-        if(amount == 0)return 1;
-
-        if(dp[amount][idx] != -1)return dp[amount][idx];
-
-        int ans = solve(amount - coins[idx] , coins , idx , dp) + solve(amount , coins , idx +1 , dp);
-
-        return dp[amount][idx] = ans;
-    }
+    
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>> dp(amount + 1 , vector<int>(coins.size() , -1));
-        return solve(amount , coins , 0 , dp);
+        vector<vector<unsigned int>> dp(amount + 1 , vector<unsigned int>(coins.size()+1 , 0));
+        for(int i=0 ; i<=coins.size() ; i++ ){
+            dp[0][i] = 1;
+        }
+
+        for(int am = 1 ; am <= amount ; am++){
+            for(int idx = coins.size()-1 ; idx >=0 ; idx--){
+
+                unsigned int ans = dp[am][idx+1];
+
+                if(am - coins[idx] >= 0)
+                {
+                    ans += dp[am - coins[idx]][idx];
+                }
+
+                dp[am][idx] = ans;
+            }
+        }
+        return dp[amount][0];
     }
 };
