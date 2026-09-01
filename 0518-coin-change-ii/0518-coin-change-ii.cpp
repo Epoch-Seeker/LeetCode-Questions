@@ -6,12 +6,7 @@ public:
 
         if(dp[amount][idx] != -1)return dp[amount][idx];
 
-        int ans = 0;
-
-        for(int i = idx ; i< coins.size() ; i++){
-            ans += solve(amount-coins[i] , coins , i , dp);
-            // ans += solve(amount , coins , i+1);
-        }
+        int ans = solve(amount - coins[idx] , coins , idx , dp) + solve(amount , coins , idx +1 , dp);
 
         return dp[amount][idx] = ans;
     }
