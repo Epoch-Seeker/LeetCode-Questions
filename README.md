@@ -116,6 +116,7 @@ This repo contains all the leetcode questions that i solved until
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -170,6 +171,7 @@ This repo contains all the leetcode questions that i solved until
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +191,7 @@ This repo contains all the leetcode questions that i solved until
 | [0542-01-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Stack
 |  |
@@ -246,6 +249,7 @@ This repo contains all the leetcode questions that i solved until
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -379,6 +383,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
@@ -423,6 +428,7 @@ This repo contains all the leetcode questions that i solved until
 | [0435-non-overlapping-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
@@ -436,6 +442,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -492,4 +499,12 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
