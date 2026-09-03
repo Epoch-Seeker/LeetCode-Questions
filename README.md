@@ -256,6 +256,7 @@ This repo contains all the leetcode questions that i solved until
 | [0011-container-with-most-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0455-assign-cookies) |
@@ -386,6 +387,7 @@ This repo contains all the leetcode questions that i solved until
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
