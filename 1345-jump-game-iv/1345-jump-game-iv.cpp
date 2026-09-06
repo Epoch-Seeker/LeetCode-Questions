@@ -4,10 +4,10 @@ public:
 
         int n = arr.size();
 
-        unordered_map<int , queue<int>> mp;
+        unordered_map<int , vector<int>> mp;
 
         for(int i=0;i<arr.size() ; i++){
-            mp[arr[i]].push(i);
+            mp[arr[i]].push_back(i);
         }
 
         // for(auto& a:mp){
@@ -54,15 +54,13 @@ public:
             }
 
             // next equal
-            while (!mp[arr[i]].empty()) {
-                int next = mp[arr[i]].front();
-                mp[arr[i]].pop();
-
+            for(int next : mp[arr[i]]){
                 if (!vis[next]) {
                     vis[next] = true;
                     q.push({next, jump + 1});
                 }
             }
+            mp[arr[i]].clear();
         }
         
         return -1;
