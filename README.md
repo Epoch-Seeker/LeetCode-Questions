@@ -22,6 +22,7 @@ This repo contains all the leetcode questions that i solved until
 | [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1345-jump-game-iv](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -117,6 +118,7 @@ This repo contains all the leetcode questions that i solved until
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
@@ -346,6 +348,7 @@ This repo contains all the leetcode questions that i solved until
 | [0994-rotting-oranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Union-Find
