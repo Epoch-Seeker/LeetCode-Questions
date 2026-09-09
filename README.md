@@ -45,6 +45,7 @@ This repo contains all the leetcode questions that i solved until
 | [0402-remove-k-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
@@ -297,6 +298,7 @@ This repo contains all the leetcode questions that i solved until
 | [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
@@ -411,6 +413,7 @@ This repo contains all the leetcode questions that i solved until
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Linked List
 |  |
