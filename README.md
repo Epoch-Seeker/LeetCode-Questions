@@ -42,6 +42,7 @@ This repo contains all the leetcode questions that i solved until
 | [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -221,6 +222,7 @@ This repo contains all the leetcode questions that i solved until
 | [0735-asteroid-collision](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -571,4 +573,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
