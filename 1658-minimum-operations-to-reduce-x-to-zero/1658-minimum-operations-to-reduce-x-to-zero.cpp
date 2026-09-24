@@ -10,24 +10,26 @@ public:
         int temp = 0;
         int ans = INT_MAX;
         for(int r = 0 ; r < n; r++){
-            while(temp > tar && l < r){
+            temp += nums[r];
+
+            while(temp > tar && l <= r){
                 temp -= nums[l++];
             }
 
             if(temp == tar){
-                ans = min(ans , l + n - r);
+                ans = min(ans , n - (r - l + 1));
             }
 
-            temp += nums[r];
+            
         }
 
-        while(temp > tar && l < n){
-            temp -= nums[l++];
-        }
+        // while(temp > tar && l < n){
+        //     temp -= nums[l++];
+        // }
 
-        if(temp == tar){
-            ans = min(ans , l); 
-        }
+        // if(temp == tar){
+        //     ans = min(ans , l); 
+        // }
 
         if(ans == INT_MAX)return -1;
         return ans;
