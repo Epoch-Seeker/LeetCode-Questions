@@ -437,6 +437,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
