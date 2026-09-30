@@ -1,20 +1,30 @@
 class Solution {
 public:
-    int twosum(vector<int>& nums, int tar , int i) {
-         
-        int l = i , r = nums.size()-1;
+    int twosum(vector<int>& nums, int tar, int i) {
+
+        int l = i, r = nums.size() - 1;
 
         int ans = INT_MAX;
         int diff = INT_MAX;
 
-        while(l < r){
-            if(abs(nums[l] + nums[r] - tar) < diff){
-                diff = abs(nums[l] + nums[r] - tar);
-                ans = nums[l] + nums[r];
+        while (l < r) {
+
+            int sum = nums[l] + nums[r];
+
+            if (abs(sum - tar) < diff) {
+                diff = abs(sum - tar);
+                ans = sum;
             }
-            if(nums[l] + nums[r] < tar){
+
+            if (sum < tar) {
                 l++;
-            }else r--;
+            }
+            else if (sum > tar) {
+                r--;
+            }
+            else {
+                return tar;
+            }
         }
 
         return ans;
