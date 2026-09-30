@@ -8,6 +8,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0001-two-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
@@ -37,6 +38,7 @@ This repo contains all the leetcode questions that i solved until
 | [0005-longest-palindromic-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -318,6 +320,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0060-permutation-sequence) |
