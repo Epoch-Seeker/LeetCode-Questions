@@ -3,7 +3,7 @@ public:
     int twosum(vector<int>& nums, int tar , int i) {
         int diff = INT_MAX;
         int ans ;
-        set<int> st;
+        multiset<int> st;
         for(i ; i< nums.size(); i++){
             int t = nums[i];
             int comp = tar -t;
