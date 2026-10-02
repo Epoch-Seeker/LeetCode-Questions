@@ -19,7 +19,7 @@ public:
         vector<vector<int>> ans;
         set<vector<int>> st;
         solve(nums , st , 0);
-        for(auto it = st.begin() ; it != st.end() ; it++)ans.push_back(*it);
+        for(auto it :st)ans.push_back(it);
         return ans; 
     }
 };
