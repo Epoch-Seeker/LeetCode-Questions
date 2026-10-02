@@ -1,28 +1,32 @@
 class Solution {
 public:
-    void solve(vector<string>& ans , string& s , int open , int close){
+    void solve(int open , int close , vector<string>& ans , string& s){
         if(open == 0 && close == 0){
-            
             ans.push_back(s);
-            return;
+            return ;
         }
 
+         
+        // add open bracket
         if(open > 0){
             s.push_back('(');
-            solve(ans , s , open-1 , close);
+            solve(open-1 , close , ans , s);
             s.pop_back();
         }
 
         if(close > open){
+            // add close bracket
             s.push_back(')');
-            solve(ans , s , open , close-1);
+            solve(open, close-1 , ans , s);
             s.pop_back();
-        }
+        } 
+        
     }
     vector<string> generateParenthesis(int n) {
-        string s = "";
+        int open = n , close = n;
         vector<string> ans;
-        solve(ans , s , n , n);
+        string s;
+        solve(open , close , ans , s);
         return ans;
     }
 };
