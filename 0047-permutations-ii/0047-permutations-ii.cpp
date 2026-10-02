@@ -1,25 +1,22 @@
 class Solution {
 public:
-    void solve(vector<int>& nums , set<vector<int>>& st , int idx){
+    void solve(vector<int>& nums ,vector<vector<int>>& ans , int idx){
         if(idx >= nums.size()){
-            st.insert(nums);
+            ans.push_back(nums);
             return;
         }
+        set<int> used;
         for(int i = idx; i< nums.size(); i++){ 
-            // if(idx != i && nums[idx] == nums[i]){
-            //     solve(nums , ans, idx+1);
-            //     continue;
-            // }
+            if(used.count(nums[i]))continue;
+            used.insert(nums[i]);
             swap(nums[idx] , nums[i]);
-            solve(nums , st, idx+1);
+            solve(nums , ans, idx+1);
             swap(nums[idx] , nums[i]);       
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;
-        set<vector<int>> st;
-        solve(nums , st , 0);
-        for(auto it :st)ans.push_back(it);
+        solve(nums , ans , 0);
         return ans; 
     }
 };
