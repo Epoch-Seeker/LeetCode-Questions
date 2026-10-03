@@ -111,6 +111,7 @@ This repo contains all the leetcode questions that i solved until
 | [0074-search-a-2d-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0130-surrounded-regions) |
@@ -309,6 +310,7 @@ This repo contains all the leetcode questions that i solved until
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -527,6 +529,7 @@ This repo contains all the leetcode questions that i solved until
 | [0016-3sum-closest](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
