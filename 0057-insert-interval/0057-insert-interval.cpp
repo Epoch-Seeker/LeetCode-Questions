@@ -1,25 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        if(intervals.size() == 0)return {newInterval};
+        vector<vector<int>> ans;
 
-        vector<vector<int>> ans , temp;
+        for(int i = 0 ; i< intervals.size() ; i++){
+            if(intervals[i][0] > newInterval[0]){
+                intervals.insert(intervals.begin()+i , newInterval);
+                newInterval.clear();
+                break;
+            }
+        }
 
-        int i = 0;
+        if(!newInterval.empty())intervals.push_back(newInterval);
 
-        while(i < intervals.size() && intervals[i][0] < newInterval[0])temp.push_back(intervals[i++]);
+        ans.push_back(intervals.front());
 
-        temp.push_back(newInterval);
-         
-        while(i < intervals.size())temp.push_back(intervals[i++]);
-
-        // for(auto t : temp){
-        //     cout<<t[0]<<':'<<t[1]<<" ";
-        // }
-
-        ans.push_back(temp.front());
-
-        for(int i=1 ; i< temp.size() ; i++){
-            vector<int> v = temp[i];
+        for(int i=1 ; i< intervals.size() ; i++){
+            vector<int> v = intervals[i];
 
             if(ans.back()[1] < v[0]){
                 ans.push_back(v);
