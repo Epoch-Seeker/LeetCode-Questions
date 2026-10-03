@@ -36,11 +36,11 @@ public:
             auto t = st.top();
             st.pop();
             if(t.first != '*')continue;
-            if(!st.empty() && st.top().first == '*'){
+            else if(!st.empty() && st.top().first == '*'){
                 st.top().second += t.second;
                 continue;
             }
-            ans = max(ans , t.second);
+            else ans = max(ans , t.second);
         }
 
         return 2*ans;
