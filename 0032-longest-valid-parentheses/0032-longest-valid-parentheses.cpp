@@ -1,36 +1,48 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        int left = 0, right = 0, ans = 0;
+        stack<pair<char , int>> st;
 
-        // Left to Right
-        for (char c : s) {
-            if (c == '(')
-                left++;
-            else
-                right++;
+        for(char ch : s){
+            if(ch == '('){
+                st.push({ch , 0});
+            }
+            else {
+                int temp = 0;
 
-            if (left == right)
-                ans = max(ans, 2 * right);
-            else if (right > left)
-                left = right = 0;
+                while(!st.empty() && st.top().first == '*'){
+                    temp += st.top().second;
+                    st.pop();
+                }
+
+                // check for (
+                if(!st.empty() && st.top().first == '('){
+                    st.pop();
+                    st.push({'*' , temp + 1});
+                }
+
+                else {
+                    if(temp > 0)st.push({'*' , temp});
+                    st.push({')' , 0});
+                }
+            }
         }
 
-        left = right = 0;
 
-        // Right to Left
-        for (int i = s.size() - 1; i >= 0; i--) {
-            if (s[i] == '(')
-                left++;
-            else
-                right++;
+        int ans = 0;
 
-            if (left == right)
-                ans = max(ans, 2 * left);
-            else if (left > right)
-                left = right = 0;
+        while(!st.empty()){
+            // cout<<st.top().first<<":"<<st.top().second<<" ";
+            auto t = st.top();
+            st.pop();
+            if(t.first != '*')continue;
+            if(!st.empty() && st.top().first == '*'){
+                st.top().second += t.second;
+                continue;
+            }
+            ans = max(ans , t.second);
         }
 
-        return ans;
+        return 2*ans;
     }
 };
