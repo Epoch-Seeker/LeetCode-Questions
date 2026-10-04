@@ -18,12 +18,12 @@ public:
                 }
                 else{
                     
-                    long long dx = x[0]-y[0];
-                    long long dy = x[1]-y[1];
+                    int dx = x[0]-y[0];
+                    int dy = x[1]-y[1];
                     
                     for(int k = 0 ; k< n ; k++){
-                        long long px = points[k][0];
-                        long long py = points[k][1];
+                        int px = points[k][0];
+                        int py = points[k][1];
 
                         if((py - x[1])*dx == dy*(px - x[0]))temp++;
                     }
