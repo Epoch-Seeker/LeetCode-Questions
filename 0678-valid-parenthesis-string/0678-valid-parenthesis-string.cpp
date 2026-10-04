@@ -1,28 +1,29 @@
 class Solution {
 public:
-    bool solve(string& s , int i , int sum , vector<vector<int>>& dp){
-
-        if(sum < 0)return false;
-
-        if (i == s.size())
-            return sum == 0;
-
-        if(dp[i][sum] != -1)return dp[i][sum];
-
-        bool ans ;
-        
+    bool checkValidString(string s) {
+        int low = 0 , high = 0;
+        int i = 0 , n = s.size();
          
-        if(s[i] == '(')ans = solve(s , i+1 , sum+1 , dp);
-        else if(s[i] == ')')ans = solve(s , i+1 , sum-1 , dp);
-        else {
-            ans = solve(s , i+1 , sum+1 , dp) || solve(s , i+1 , sum-1 , dp) || solve(s , i+1 , sum , dp);
+        while(i < n){
+            if(s[i] == '('){
+                low++;
+                high++;
+            }
+            else if(s[i] == ')'){
+                low--;
+                high--;
+            }
+            else {
+                low--;// * as )
+                high++;// * as (
+            }
+
+            if(high < 0 )return false;
+
+            low = max(low , 0);
+            i++;
         }
 
-        return dp[i][sum] =  ans;
-    }
-    bool checkValidString(string s) {
-        int n = s.size();
-        vector<vector<int>> dp(n , vector<int>(n+1 , -1));
-        return solve(s , 0 , 0 , dp);
+        return low == 0;
     }
 };
