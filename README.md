@@ -121,6 +121,7 @@ This repo contains all the leetcode questions that i solved until
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0200-number-of-islands) |
@@ -256,6 +257,7 @@ This repo contains all the leetcode questions that i solved until
 | [0020-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -345,6 +347,7 @@ This repo contains all the leetcode questions that i solved until
 | [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
