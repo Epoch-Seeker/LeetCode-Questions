@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool solve(string s , int i , int sum , vector<vector<int>>& dp){
+    bool solve(string& s , int i , int sum , vector<vector<int>>& dp){
 
         if(sum < 0)return false;
 
