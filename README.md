@@ -369,6 +369,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0130-surrounded-regions) |
@@ -393,6 +394,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
@@ -506,6 +508,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
@@ -519,6 +522,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
