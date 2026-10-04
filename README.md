@@ -115,6 +115,7 @@ This repo contains all the leetcode questions that i solved until
 | [0088-merge-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
@@ -232,6 +233,7 @@ This repo contains all the leetcode questions that i solved until
 | [0063-unique-paths-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0174-dungeon-game) |
