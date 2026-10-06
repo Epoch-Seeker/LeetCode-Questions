@@ -12,6 +12,7 @@ This repo contains all the leetcode questions that i solved until
 | [0013-roman-to-integer](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0133-clone-graph) |
@@ -46,6 +47,7 @@ This repo contains all the leetcode questions that i solved until
 | [0020-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
@@ -103,6 +105,7 @@ This repo contains all the leetcode questions that i solved until
 | [0045-jump-game-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0054-spiral-matrix) |
@@ -553,6 +556,7 @@ This repo contains all the leetcode questions that i solved until
 | [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0242-valid-anagram) |
