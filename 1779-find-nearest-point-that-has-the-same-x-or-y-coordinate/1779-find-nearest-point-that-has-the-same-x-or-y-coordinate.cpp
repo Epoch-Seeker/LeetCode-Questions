@@ -8,15 +8,16 @@ public:
         int dis = INT_MAX;
 
         while(i < n){
-            auto p = points[i++];
-            if(p[0] != x && p[1] != y)continue;
+            auto p = points[i];
+            if(p[0] == x || p[1] == y){
+                int temp = abs(x - p[0]) + abs(y - p[1]);
 
-            int temp = abs(x - p[0]) + abs(y - p[1]);
-
-            if(temp < dis){
-                idx = i-1;
-                dis = temp;
-            }
+                if(temp < dis){
+                    idx = i;
+                    dis = temp;
+                }
+            } 
+            i++;
         }
 
         return idx;
