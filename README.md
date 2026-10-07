@@ -59,6 +59,7 @@ This repo contains all the leetcode questions that i solved until
 | [0205-isomorphic-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0796-rotate-string) |
@@ -291,6 +292,7 @@ This repo contains all the leetcode questions that i solved until
 | [0090-subsets-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -420,6 +422,7 @@ This repo contains all the leetcode questions that i solved until
 | [0207-course-schedule](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
