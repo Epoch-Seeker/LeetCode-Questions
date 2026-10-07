@@ -1,6 +1,6 @@
 class Solution {
 public:
-    unordered_map<string , bool> mp;
+    // unordered_map<string , bool> mp;
     void solve(string& s , vector<string>& ans , int i , int remove){
         if(i == s.size()){
             if(remove != 0)return;
@@ -14,10 +14,10 @@ public:
                 if(temp < 0)return;
             }
             if(temp == 0){
-                if(!mp[s]){
+                // if(!mp[s]){
                     ans.push_back(s);
-                    mp[s] = true;
-                }
+                    // mp[s] = true;
+                // }
             }
             return;
         }
@@ -27,20 +27,20 @@ public:
             return;
         }
 
-        if(s.size() - i == remove){
+        // not erase
+        solve(s , ans , i+1 , remove);
+        // erase
+        if(i == 0 || s[i] != s[i-1]){
+
             char ch = s[i];
-            s.erase(i,1);
-            solve(s , ans , i , remove-1);
-            s.insert(i , 1 , ch);
-        }else{
-            // not erase
-            solve(s , ans , i+1 , remove);
-            // erase
-            char ch = s[i];
-            s.erase(i,1);
-            solve(s , ans , i , remove-1);
-            s.insert(i , 1 , ch);
+
+            s.erase(i, 1);
+
+            solve(s, ans, i, remove - 1);
+
+            s.insert(i, 1, ch);
         }
+        
     }
     vector<string> removeInvalidParentheses(string s) {
         int n = s.size();
