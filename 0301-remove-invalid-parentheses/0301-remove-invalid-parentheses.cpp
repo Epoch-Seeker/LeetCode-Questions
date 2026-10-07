@@ -44,12 +44,24 @@ public:
     }
     vector<string> removeInvalidParentheses(string s) {
         int n = s.size();
-        for(int remove = 0; remove <=n ; remove++){
-            mp.clear();
-            vector<string> ans;
-            solve(s , ans , 0 , remove);
-            if(ans.size()>0)return ans;
+        int temp = 0;
+        int remove = 0;
+        for(char ch : s){
+            if(ch == '(')temp++;
+            else if(ch == ')') temp--;
+            
+            if(temp < 0){
+                remove++;
+                temp++;
+            }
         }
-        return {""};
+
+        while(temp--)remove++;
+
+        if(remove == 0)return {s};
+         
+        vector<string> ans;
+        solve(s , ans , 0 , remove);
+        return ans;
     }
 };
