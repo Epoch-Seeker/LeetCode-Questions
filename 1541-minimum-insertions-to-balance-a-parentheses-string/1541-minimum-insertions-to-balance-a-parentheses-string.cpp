@@ -12,20 +12,16 @@ public:
         }
 
         int ans = 0;
-
-        for(int i =0; i< s.size() ; i++){
-            if(s[i] == ')'){
-                ans++;
-                s[i] = '1';
-            }
-        }
-
         int sum = 0;
 
         for(char ch : s){
             if(ch == '(')sum++;
             else {
                 if(ch == '1')sum--;
+                if(ch == ')'){
+                    ans++;
+                    sum--;
+                }
             }
 
             if(sum < 0){
