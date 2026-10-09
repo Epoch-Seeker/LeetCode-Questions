@@ -1,37 +1,32 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        
-        string temp;
-
         for(int i=0; i< s.size() ; i++){
             if(s[i] == ')'){
-                if(!temp.empty() && temp.back() == s[i]){
-                    temp.pop_back();
-                    temp += '*';
+                if(i-1>=0 && s[i-1] == s[i]){
+                    s[i-1] = '1';
+                    s[i] = '0';
                 }
-                else temp += s[i];
-            }else temp += s[i];
-
-            // cout<<temp<<endl;
+                 
+            } 
         }
-        
-        // cout<<temp;
 
         int ans = 0;
 
-        for(int i =0; i< temp.size() ; i++){
-            if(temp[i] == ')'){
+        for(int i =0; i< s.size() ; i++){
+            if(s[i] == ')'){
                 ans++;
-                temp[i] = '*';
+                s[i] = '1';
             }
         }
 
         int sum = 0;
 
-        for(char ch : temp){
+        for(char ch : s){
             if(ch == '(')sum++;
-            else sum--;
+            else {
+                if(ch == '1')sum--;
+            }
 
             if(sum < 0){
                 ans++;
