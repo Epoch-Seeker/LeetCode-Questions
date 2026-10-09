@@ -1,28 +1,20 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        for(int i=0; i< s.size() ; i++){
-            if(s[i] == ')'){
-                if(i-1>=0 && s[i-1] == s[i]){
-                    s[i-1] = '1';
-                    s[i] = '0';
-                }
-                 
-            } 
-        }
-
         int ans = 0;
         int sum = 0;
+        for(int i=0; i< s.size() ; i++){
 
-        for(char ch : s){
-            if(ch == '(')sum++;
-            else {
-                if(ch == '1')sum--;
-                if(ch == ')'){
+            if(s[i] == ')'){
+                if(i+1 < s.size() && s[i+1] == s[i]){
+                    sum--;
+                    i++;
+                }else{
                     ans++;
                     sum--;
                 }
-            }
+                 
+            }else sum++;
 
             if(sum < 0){
                 ans++;
