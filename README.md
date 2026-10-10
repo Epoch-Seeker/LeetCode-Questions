@@ -77,6 +77,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
@@ -272,6 +273,7 @@ This repo contains all the leetcode questions that i solved until
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -543,12 +545,14 @@ This repo contains all the leetcode questions that i solved until
 | [0104-maximum-depth-of-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -557,6 +561,7 @@ This repo contains all the leetcode questions that i solved until
 | [0104-maximum-depth-of-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -712,4 +717,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
