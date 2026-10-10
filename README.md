@@ -22,6 +22,7 @@ This repo contains all the leetcode questions that i solved until
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -57,6 +58,7 @@ This repo contains all the leetcode questions that i solved until
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -389,6 +391,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -519,6 +522,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
@@ -721,4 +725,20 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
