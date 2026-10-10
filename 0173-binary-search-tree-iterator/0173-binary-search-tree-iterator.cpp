@@ -11,25 +11,28 @@
  */
 class BSTIterator {
 public:
-    vector<int> ans;
-    int i;
+    stack<TreeNode*> st;
     BSTIterator(TreeNode* root) {
-        inordertraversel(root);
-        i = -1;
+        pushLeft(root);
     }
 
-    void inordertraversel(TreeNode* root){
-        if(root -> left)inordertraversel(root -> left);
-        ans.push_back(root -> val);
-        if(root -> right)inordertraversel(root -> right);
+    void pushLeft(TreeNode* root){
+        while(root){
+            st.push(root);
+            root = root -> left;
+        }
     }
     
     int next() {
-        return ans[++i];
+        auto temp = st.top();
+        st.pop();
+
+        pushLeft(temp -> right);
+        return temp -> val;
     }
     
     bool hasNext() {
-        return i+1 < ans.size();
+        return !st.empty();
     }
 };
 
