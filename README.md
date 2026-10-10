@@ -20,6 +20,7 @@ This repo contains all the leetcode questions that i solved until
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
@@ -75,6 +76,7 @@ This repo contains all the leetcode questions that i solved until
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
@@ -505,6 +507,7 @@ This repo contains all the leetcode questions that i solved until
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
@@ -597,6 +600,7 @@ This repo contains all the leetcode questions that i solved until
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 ## Number Theory
 |  |
