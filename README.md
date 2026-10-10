@@ -411,6 +411,7 @@ This repo contains all the leetcode questions that i solved until
 | [0207-course-schedule](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -554,6 +555,7 @@ This repo contains all the leetcode questions that i solved until
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Search Tree
@@ -570,6 +572,7 @@ This repo contains all the leetcode questions that i solved until
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Data Stream
@@ -746,4 +749,12 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
