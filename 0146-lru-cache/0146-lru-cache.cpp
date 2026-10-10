@@ -13,12 +13,13 @@ public:
 };
 class LRUCache {
 public:
-    int cap;
+    int cap , size;
     Node* start;
     Node* end;
     unordered_map<int , Node*> mp;
     LRUCache(int capacity) {
         cap = capacity;
+        size = 0;
         start = new Node(-1 , -1);
         end = new Node(-1 , -1);
         start -> next = end;
@@ -54,13 +55,16 @@ public:
             return;
         }
 
-        if(mp.size() == cap){
+        if(size == cap){
             Node* temp = end -> prev;
             temp -> prev -> next = temp -> next;
             temp -> next -> prev = temp -> prev;
             mp.erase(temp -> key);
             delete temp;
+            size--;
         }
+
+        size++;
 
         Node* temp = new Node(key , value);
         mp[key] = temp;
