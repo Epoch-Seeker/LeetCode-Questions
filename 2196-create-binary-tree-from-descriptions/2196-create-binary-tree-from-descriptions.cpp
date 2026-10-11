@@ -13,58 +13,29 @@ class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
         unordered_map<int , TreeNode*> mp;
-        unordered_map<int , int> parent;
-        TreeNode* ans = NULL;
+        set<int> st;
 
         for(auto v : descriptions){
-            parent[v[1]] = v[0];
-            if(!parent.count(v[0]))parent[v[0]] = 0;
-            if(mp.count(v[0])){
-                auto par = mp[v[0]];
-                if(mp.count(v[1])){
-                    auto ch = mp[v[1]];
-                    if(v[2]){
-                        par -> left = ch;
-                    }else{
-                        par -> right = ch;
-                    }
-                }else{
-                    TreeNode* ch = new TreeNode(v[1]);
-                    mp[v[1]] = ch;
-                    if(v[2]){
-                        par -> left = ch;
-                    }else{
-                        par -> right = ch;
-                    }
-                }
-            }else{
-                TreeNode* par = new TreeNode(v[0]);
-                mp[v[0]] = par;
-                if(mp.count(v[1])){
-                    auto ch = mp[v[1]];
-                    if(v[2]){
-                        par -> left = ch;
-                    }else{
-                        par -> right = ch;
-                    }
-                }else{
-                    TreeNode* ch = new TreeNode(v[1]);
-                    mp[v[1]] = ch;
-                    if(v[2]){
-                        par -> left = ch;
-                    }else{
-                        par -> right = ch;
-                    }
-                }
+            int p = v[0];
+            int c = v[1];
+            int isLeft = v[2];
 
-            }
+            if(!mp.count(p))mp[p] = new TreeNode(p);
+
+            if(!mp.count(c))mp[c] = new TreeNode(c);
+
+            if(isLeft)mp[p] -> left = mp[c];
+            else mp[p] -> right = mp[c];
+
+            st.insert(c);
+
         }
 
-        for(auto it : parent){
-            if(it.second == 0)ans = mp[it.first];
+        for(auto it : mp){
+            if(!st.count(it.first))return it.second;
         }
 
-        return ans;
+        return NULL;
         
     }
 };
