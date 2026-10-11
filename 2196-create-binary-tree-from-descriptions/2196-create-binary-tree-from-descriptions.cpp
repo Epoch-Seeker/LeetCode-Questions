@@ -13,7 +13,7 @@ class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
         unordered_map<int , TreeNode*> mp;
-        set<int> st;
+        unordered_set<int> st;
 
         for(auto v : descriptions){
             int p = v[0];
