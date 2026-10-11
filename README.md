@@ -182,6 +182,7 @@ This repo contains all the leetcode questions that i solved until
 | [2333-minimum-sum-of-squared-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -757,4 +758,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
