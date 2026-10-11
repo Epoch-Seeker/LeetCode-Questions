@@ -12,8 +12,8 @@
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        map<int , TreeNode*> mp;
-        map<int , int> parent;
+        unordered_map<int , TreeNode*> mp;
+        unordered_map<int , int> parent;
         TreeNode* ans = NULL;
 
         for(auto v : descriptions){
