@@ -64,6 +64,7 @@ This repo contains all the leetcode questions that i solved until
 | [0205-isomorphic-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -84,6 +85,7 @@ This repo contains all the leetcode questions that i solved until
 | [0146-lru-cache](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -421,6 +423,7 @@ This repo contains all the leetcode questions that i solved until
 | [0210-course-schedule-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0547-number-of-provinces) |
@@ -448,6 +451,7 @@ This repo contains all the leetcode questions that i solved until
 | [0207-course-schedule](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -570,6 +574,7 @@ This repo contains all the leetcode questions that i solved until
 | [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -590,6 +595,7 @@ This repo contains all the leetcode questions that i solved until
 | [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
