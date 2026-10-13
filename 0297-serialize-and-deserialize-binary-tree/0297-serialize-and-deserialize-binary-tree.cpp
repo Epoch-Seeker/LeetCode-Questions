@@ -28,17 +28,17 @@ public:
         return out;
     }
 
-    TreeNode* build(vector<string>& pre , int& idx){
-        if(idx >= pre.size())return NULL;
+    TreeNode* build(queue<string>& q){
+        if(q.empty())return NULL;
 
-        string s = pre[idx++];
-
+        string s = q.front();
+        q.pop();
         if(s == "N")return NULL;
 
         TreeNode* root = new TreeNode(stoi(s));
 
-        root -> left = build(pre , idx);
-        root -> right = build(pre , idx);
+        root -> left = build(q);
+        root -> right = build(q);
 
         return root;
     }
@@ -47,7 +47,7 @@ public:
     TreeNode* deserialize(string data) {
         if(data.empty())return NULL;
 
-        vector<string> pre;
+        queue<string> q;
 
         string temp = "";
 
@@ -55,14 +55,12 @@ public:
             char ch = data[i];
 
             if(ch == ','){
-                pre.push_back(temp);
+                q.push(temp);
                 temp.clear();
             }else temp += ch;
         }
 
-        int idx = 0;
-
-        return build(pre , idx);
+        return build(q);
     }
 };
 
