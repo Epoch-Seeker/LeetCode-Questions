@@ -387,6 +387,7 @@ This repo contains all the leetcode questions that i solved until
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -521,6 +522,7 @@ This repo contains all the leetcode questions that i solved until
 | [2333-minimum-sum-of-squared-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
