@@ -2,40 +2,24 @@ class Solution {
 public:
     int reverse(int x) {
 
-        bool neg = false;
-        if(x < 0)neg = true;
-        int p = 0;
+        string temp = to_string(x);
+        // temp = temp.substr(1);
+        bool neg = (x < 0);
 
-        long long temp = abs((long long)x);
-
-        while(temp >= 10){
-            p++;
-            temp /= 10;
+        if (neg) {
+            temp = temp.substr(1);
         }
 
-        temp = abs((long long)x);
+        std::reverse(temp.begin() , temp.end());
 
-        long long ans = 0;
+        long long p = stoll(temp);
+        if(neg)p = -p;
 
-        while(temp){
-            int t = temp % 10;
-
-            ans += (t * pow(10 , p--));
-
-            if(neg){
-                if(-1*ans < INT_MIN)return 0;
-            }else {
-                if(ans > INT_MAX)return 0;
-            }
-
-            temp /= 10;
-
+        if( p < INT_MIN || p > INT_MAX){
+            return 0;
         }
 
-        if(neg){
-           return -1*ans;
-        }else {
-            return ans;
-        }
+        return p;
+
     }
 };
