@@ -6,15 +6,15 @@ public:
         int ans = 0;
 
         for(int i=0;i < n;i++){
+            vector<bool> vis(101 , false);
+            int p = 0;
             for(int j = i ; j < n ; j++){
-                vector<bool> vis(101 , false);
-                int p = 0;
-                for(int k = i ; k <= j ; k++){
-                    if(!vis[nums[k]]){
-                        p++;
-                        vis[nums[k]] = true;
-                    }
+                 
+                if(!vis[nums[j]]){
+                    p++;
+                    vis[nums[j]] = true;
                 }
+                
                 ans += p*p;
             }
         }
