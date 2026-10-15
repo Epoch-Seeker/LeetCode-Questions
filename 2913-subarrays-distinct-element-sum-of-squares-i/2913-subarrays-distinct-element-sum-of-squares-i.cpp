@@ -7,14 +7,15 @@ public:
 
         for(int i=0;i < n;i++){
             for(int j = i ; j < n ; j++){
-                unordered_set<int> st;
+                vector<bool> vis(101 , false);
+                int p = 0;
                 for(int k = i ; k <= j ; k++){
                     // cout<<nums[k]<<" ";
-                    if(!st.count(nums[k])){
-                        st.insert(nums[k]);
+                    if(!vis[nums[k]]){
+                        p++;
+                        vis[nums[k]] = true;
                     }
                 }
-                int p = st.size();
                 ans += p*p;
             }
         }
