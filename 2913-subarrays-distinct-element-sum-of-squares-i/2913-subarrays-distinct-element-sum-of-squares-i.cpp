@@ -10,7 +10,6 @@ public:
                 vector<bool> vis(101 , false);
                 int p = 0;
                 for(int k = i ; k <= j ; k++){
-                    // cout<<nums[k]<<" ";
                     if(!vis[nums[k]]){
                         p++;
                         vis[nums[k]] = true;
