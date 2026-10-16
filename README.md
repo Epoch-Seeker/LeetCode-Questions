@@ -189,6 +189,7 @@ This repo contains all the leetcode questions that i solved until
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -287,6 +288,7 @@ This repo contains all the leetcode questions that i solved until
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Stack
 |  |
@@ -350,6 +352,7 @@ This repo contains all the leetcode questions that i solved until
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
@@ -746,6 +749,7 @@ This repo contains all the leetcode questions that i solved until
 | [1021-remove-outermost-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
 | ------- |
