@@ -2,48 +2,38 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
-        vector<pair<int , int>> v;
-        for(int num : nums){
-            int first = 0;
-            int second = num;
+        vector<array<int, 3>> v;
 
-            while(num){
-                first += (num % 10);
-                num /= 10;
+        for (int i = 0; i < n; i++) {
+            int x = nums[i], sum = 0;
+
+            while (x) {
+                sum += x % 10;
+                x /= 10;
             }
 
-            v.push_back({first , second});
+            v.push_back({sum, nums[i], i});
         }
 
-        sort(v.begin() , v.end());
-
-        unordered_map<int , int> mp;
-
-        for(int i = 0; i< n ; i++){
-            auto t = v[i];
-            mp[t.second] = i;
-        }
+        sort(v.begin(), v.end());
 
         vector<bool> vis(n, false);
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            if (vis[i] || mp[nums[i]] == i)
-                continue;
+            if (vis[i] || v[i][2] == i) continue;
 
-            int j = i;
-            int cycleSize = 0;
+            int j = i, len = 0;
 
             while (!vis[j]) {
                 vis[j] = true;
-                j = mp[nums[j]];
-                cycleSize++;
+                j = v[j][2];
+                len++;
             }
 
-            ans += cycleSize - 1;
+            ans += len - 1;
         }
 
         return ans;
-
     }
 };
