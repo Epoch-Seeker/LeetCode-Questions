@@ -449,6 +449,7 @@ This repo contains all the leetcode questions that i solved until
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1306-jump-game-iii) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -481,6 +482,7 @@ This repo contains all the leetcode questions that i solved until
 | [1091-shortest-path-in-binary-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1345-jump-game-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -506,6 +508,7 @@ This repo contains all the leetcode questions that i solved until
 | [0797-all-paths-from-source-to-target](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1192-critical-connections-in-a-network) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
