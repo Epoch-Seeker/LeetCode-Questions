@@ -182,6 +182,7 @@ This repo contains all the leetcode questions that i solved until
 | [1539-kth-missing-positive-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
@@ -210,6 +211,7 @@ This repo contains all the leetcode questions that i solved until
 | [0215-kth-largest-element-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -289,6 +291,7 @@ This repo contains all the leetcode questions that i solved until
 | [0907-sum-of-subarray-minimums](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -398,6 +401,7 @@ This repo contains all the leetcode questions that i solved until
 | [0150-evaluate-reverse-polish-notation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -495,6 +499,7 @@ This repo contains all the leetcode questions that i solved until
 | [0785-is-graph-bipartite](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -572,6 +577,7 @@ This repo contains all the leetcode questions that i solved until
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -597,6 +603,7 @@ This repo contains all the leetcode questions that i solved until
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Search Tree
@@ -605,6 +612,7 @@ This repo contains all the leetcode questions that i solved until
 | [0173-binary-search-tree-iterator](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -618,6 +626,7 @@ This repo contains all the leetcode questions that i solved until
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Data Stream
@@ -720,6 +729,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Meet in the Middle
 |  |
 | ------- |
@@ -815,4 +825,8 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
