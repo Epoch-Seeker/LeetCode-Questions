@@ -79,6 +79,7 @@ This repo contains all the leetcode questions that i solved until
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -317,6 +318,7 @@ This repo contains all the leetcode questions that i solved until
 | [1021-remove-outermost-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -770,6 +772,7 @@ This repo contains all the leetcode questions that i solved until
 | [1021-remove-outermost-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
