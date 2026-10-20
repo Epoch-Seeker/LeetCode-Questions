@@ -205,6 +205,7 @@ This repo contains all the leetcode questions that i solved until
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -410,6 +411,7 @@ This repo contains all the leetcode questions that i solved until
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -662,6 +664,7 @@ This repo contains all the leetcode questions that i solved until
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -826,6 +829,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
