@@ -2,10 +2,18 @@ class Solution {
 public:
     int minOperations(string s) {
 
-        string t = s;
-        sort(t.begin() , t.end());
-        
-        if(s.length() == 1 || s == t)return 0;
+        if(s.size() == 1)return 0;
+
+        bool is_sort = true;
+
+        for(int i = 1 ; i < s.size() ; i++){
+            if(s[i] < s[i-1]){
+                is_sort = false;
+                break;
+            }
+        }
+
+        if(is_sort)return 0;
 
         // -1  condtion
         if(s.length() == 2 && s.front() > s.back())return -1;
