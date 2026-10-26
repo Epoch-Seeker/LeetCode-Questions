@@ -1,7 +1,7 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& grid , int i , int j , long long& sum){
-        sum += grid[i][j];
+    long long dfs(vector<vector<int>>& grid , int i , int j){
+        long long ans = grid[i][j];
         grid[i][j] = 0;
 
         vector<pair<int, int>> dr = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
@@ -14,10 +14,12 @@ public:
                 continue;
             }
             if(grid[x][y]){
-                dfs(grid , x , y , sum);
+                ans += dfs(grid , x , y);
             }
                 
         }
+
+        return ans;
 
     }
     int countIslands(vector<vector<int>>& grid, int k) {
@@ -30,9 +32,7 @@ public:
             for(int j = 0 ; j < n ; j++){
                 
                 if(grid[i][j]){
-                    long long sum = 0;
-                    dfs(grid , i , j , sum);
-                    if(sum % k == 0)ans++;
+                    if(dfs(grid , i , j) % k == 0)ans++;
                 } 
             }
         }
