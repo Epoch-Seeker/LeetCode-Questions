@@ -2,22 +2,19 @@ class Solution {
 public:
     vector<string> createGrid(int m, int n) {
         vector<string> ans;
-        string temp;
-        int i = 0; 
+        string one , sec;
+        int i = 1; 
             
         for(int j = 0 ;j < n ; j++){
-            temp += '.';
+            one += '.';
+            sec += '#';
         }
-        ans.push_back(temp);
-        temp.clear();
-        i++;
-        for(int j = 0 ;j < n-1 ; j++){
-            temp += '#';
-        }
-        temp += '.';
+        ans.push_back(one);
+        
+        sec.back() = '.';
 
         while(i++ < m){
-            ans.push_back(temp);
+            ans.push_back(sec);
         }
 
         return ans;
