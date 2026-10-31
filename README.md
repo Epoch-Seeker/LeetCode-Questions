@@ -311,6 +311,7 @@ This repo contains all the leetcode questions that i solved until
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3665-twisted-mirror-path-count](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3665-twisted-mirror-path-count) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -429,6 +430,7 @@ This repo contains all the leetcode questions that i solved until
 | [2409-count-days-spent-together](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
@@ -858,6 +860,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
