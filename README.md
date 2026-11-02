@@ -116,6 +116,7 @@ This repo contains all the leetcode questions that i solved until
 | [0014-longest-common-prefix](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0035-search-insert-position) |
@@ -391,6 +392,7 @@ This repo contains all the leetcode questions that i solved until
 | [0011-container-with-most-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
@@ -681,6 +683,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0015-3sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0056-merge-intervals) |
