@@ -450,6 +450,7 @@ This repo contains all the leetcode questions that i solved until
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
@@ -598,6 +599,7 @@ This repo contains all the leetcode questions that i solved until
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
