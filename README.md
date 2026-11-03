@@ -61,6 +61,7 @@ This repo contains all the leetcode questions that i solved until
 | [0079-word-search](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -298,6 +299,7 @@ This repo contains all the leetcode questions that i solved until
 | [0115-distinct-subsequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
