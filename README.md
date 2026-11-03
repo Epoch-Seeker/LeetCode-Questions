@@ -146,6 +146,7 @@ This repo contains all the leetcode questions that i solved until
 | [0120-triangle](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
@@ -578,6 +579,7 @@ This repo contains all the leetcode questions that i solved until
 | [0011-container-with-most-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
