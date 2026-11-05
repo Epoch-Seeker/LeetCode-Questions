@@ -191,6 +191,7 @@ This repo contains all the leetcode questions that i solved until
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
@@ -281,6 +282,7 @@ This repo contains all the leetcode questions that i solved until
 | [1004-max-consecutive-ones-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -415,6 +417,7 @@ This repo contains all the leetcode questions that i solved until
 | [0151-reverse-words-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Monotonic Stack
 |  |
@@ -715,6 +718,7 @@ This repo contains all the leetcode questions that i solved until
 | [0455-assign-cookies](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
