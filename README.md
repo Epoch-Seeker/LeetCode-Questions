@@ -202,6 +202,7 @@ This repo contains all the leetcode questions that i solved until
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1882-process-tasks-using-servers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -655,6 +656,7 @@ This repo contains all the leetcode questions that i solved until
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
