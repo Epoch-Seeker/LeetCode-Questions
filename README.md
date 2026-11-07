@@ -122,6 +122,7 @@ This repo contains all the leetcode questions that i solved until
 | [0016-3sum-closest](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0035-search-insert-position) |
@@ -411,6 +412,7 @@ This repo contains all the leetcode questions that i solved until
 | [0016-3sum-closest](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
