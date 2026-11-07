@@ -55,6 +55,7 @@ This repo contains all the leetcode questions that i solved until
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0065-valid-number) |
@@ -413,6 +414,7 @@ This repo contains all the leetcode questions that i solved until
 | [0018-4sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0086-partition-list) |
@@ -851,6 +853,7 @@ This repo contains all the leetcode questions that i solved until
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0796-rotate-string) |
 ## Brute-Force Search
 |  |
@@ -883,10 +886,12 @@ This repo contains all the leetcode questions that i solved until
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 ## Binary Lifting
 |  |
@@ -912,4 +917,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
