@@ -921,4 +921,8 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
