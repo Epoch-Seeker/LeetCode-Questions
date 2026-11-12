@@ -468,6 +468,7 @@ This repo contains all the leetcode questions that i solved until
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
@@ -624,6 +625,7 @@ This repo contains all the leetcode questions that i solved until
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
