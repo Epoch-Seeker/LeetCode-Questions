@@ -86,6 +86,7 @@ This repo contains all the leetcode questions that i solved until
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -489,6 +490,7 @@ This repo contains all the leetcode questions that i solved until
 | [0068-text-justification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
