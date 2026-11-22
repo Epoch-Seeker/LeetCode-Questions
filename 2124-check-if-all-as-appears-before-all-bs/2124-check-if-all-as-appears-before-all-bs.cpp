@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int b = 0;
+        bool b = false;
 
         for(char ch : s){
             if(ch == 'a'){
-                if(b > 0)return false;
-            }else b++;
+                if(b)return false;
+            }else b = true;
         }
 
         return true;
