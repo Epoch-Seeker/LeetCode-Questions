@@ -108,6 +108,7 @@ This repo contains all the leetcode questions that i solved until
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 ## Trie
 |  |
@@ -199,6 +200,7 @@ This repo contains all the leetcode questions that i solved until
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -279,6 +281,7 @@ This repo contains all the leetcode questions that i solved until
 | [0410-split-array-largest-sum](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -472,6 +475,7 @@ This repo contains all the leetcode questions that i solved until
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -740,6 +744,7 @@ This repo contains all the leetcode questions that i solved until
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2034-stock-price-fluctuation](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2034-stock-price-fluctuation) |
 ## Sorting
 |  |
