@@ -232,6 +232,7 @@ This repo contains all the leetcode questions that i solved until
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -480,6 +481,7 @@ This repo contains all the leetcode questions that i solved until
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -512,6 +514,7 @@ This repo contains all the leetcode questions that i solved until
 | [1004-max-consecutive-ones-iii](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Depth-First Search
@@ -800,6 +803,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
@@ -946,6 +950,7 @@ This repo contains all the leetcode questions that i solved until
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
