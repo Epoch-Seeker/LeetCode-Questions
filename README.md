@@ -481,6 +481,7 @@ This repo contains all the leetcode questions that i solved until
 | [1903-largest-odd-number-in-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -504,6 +505,7 @@ This repo contains all the leetcode questions that i solved until
 | [0735-asteroid-collision](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Epoch-Seeker/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 ## Sliding Window
 |  |
 | ------- |
